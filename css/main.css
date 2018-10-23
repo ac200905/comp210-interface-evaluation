@@ -83,7 +83,7 @@ h2{
 header{
   width:100%;
   height:100px;
-  background: #aaa;
+  background: #5086ff;
 }
 .content{
   width:100%;
@@ -93,7 +93,7 @@ aside{
   width:30%;
   min-height: 300px;
   float:left;
-  background:#777;
+  background:#6ea8ff;
 }
 nav ul{
   margin:10px;
@@ -105,7 +105,7 @@ nav ul li a{
   display:block;
   width: 90%;
   height:60px;
-  background-color: #222;
+  background-color: #3e31ff;
   color: #fff;
   line-height: 60px;
   text-align: center;
@@ -113,15 +113,15 @@ nav ul li a{
 }
 nav ul li a.selected{
   text-decoration: underline;
-  background: #888;
+  background: #3e31ff;
 }
 nav ul li a:hover{
-  background: #888;
+  background: #94a2ff;
 }
 section{
   width:65%;
   min-height:300px;
-  background: #555;
+  background: #7b8bff;
   float: right;
   margin:10px;
 }
@@ -129,7 +129,7 @@ footer{
   clear: both;
   width:100%;
   height:40px;
-  background: #bbb;
+  background: #5086ff;
   position: absolute;
   bottom: 0px;
   padding:5px;
